@@ -13,7 +13,7 @@ module.exports = () => {
     devtool: 'none',
     output: {
       filename: 'js/[name].js',
-      path: path.join(__dirname, 'dist')
+      path: path.join(__dirname, 'public')
     },
     optimization: {
       minimizer: [
