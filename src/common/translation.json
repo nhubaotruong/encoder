@@ -1,0 +1,5 @@
+{
+    "key-incorrect-or-corrupted-or-wrong-algorithm": "Sai mật khẩu hoặc file bị hư hoặc sai thuật toán",
+    "no-integrity": "File không toàn vẹn",
+    "not-encrypted-file": "Không phải file mã hoá bởi ứng dụng này"
+}

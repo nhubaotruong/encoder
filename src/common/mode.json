@@ -1,0 +1,60 @@
+{
+    "AES": [
+        {
+            "value": "CBC",
+            "label": "CBC"
+        },
+        {
+            "value": "CFB",
+            "label": "CFB"
+        },
+        {
+            "value": "CTR",
+            "label": "CTR"
+        },
+        {
+            "value": "OFB",
+            "label": "OFB"
+        },
+        {
+            "value": "ECB",
+            "label": "ECB"
+        }
+    ],
+    "DES": [
+        {
+            "value": "CBC",
+            "label": "CBC"
+        },
+        {
+            "value": "CFB",
+            "label": "CFB"
+        },
+        {
+            "value": "OFB",
+            "label": "OFB"
+        },
+        {
+            "value": "ECB",
+            "label": "ECB"
+        }
+    ],
+    "TripleDES": [
+        {
+            "value": "CBC",
+            "label": "CBC"
+        },
+        {
+            "value": "CFB",
+            "label": "CFB"
+        },
+        {
+            "value": "OFB",
+            "label": "OFB"
+        },
+        {
+            "value": "ECB",
+            "label": "ECB"
+        }
+    ]
+}

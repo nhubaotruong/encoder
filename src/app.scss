@@ -1,0 +1,14 @@
+@import "bootstrap/scss/bootstrap.scss";
+
+.row {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+        color: lightblue;
+    }
+    transition: 0.3s;
+}

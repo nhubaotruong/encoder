@@ -1,0 +1,14 @@
+[
+    {
+        "value": "AES",
+        "label": "AES256"
+    },
+    {
+        "value": "DES",
+        "label": "DES"
+    },
+    {
+        "value": "TripleDES",
+        "label": "TripleDES"
+    }
+]
